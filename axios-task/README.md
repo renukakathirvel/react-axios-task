@@ -24,7 +24,7 @@ Axios: HTTP client for making requests to the mock API.
 CSS: For styling the application.
 Installation
 Clone the Repository
-git clone [https://github.com/RAJKUMAR-35/React-Axios-CRUD-Operation](https://github.com/renukakathirvel/react-axios-task/tree/main/axios-task)
+git clone https://github.com/renukakathirvel/react-axios-task/tree/main/axios-task
 Navigate to the project directory:
 cd react-axios-task
 cd axios-task:
